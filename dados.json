@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "O dorama é baseado em um Webtoon (quadrinho digital sul-coreano) de enorme sucesso escrito por Yaongyi.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+1"
+  },
+  {
+    "id": 2,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "Os atores que interpretam os estudantes de ensino médio são adolescentes na vida real. (O ator Hwang In-youp já tinha quase 30 anos!).",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+2"
+  },
+  {
+    "id": 3,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "A protagonista, Im Ju-kyung, usa a maquiagem como ferramenta para superar suas inseguranças causadas pelo bullying.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+3"
+  },
+  {
+    "id": 4,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "Su-ho e Seo-jun são inimigos porque sempre se odiaram gratuitamente. (Na verdade, eles carregam a dor pela perda de um amigo em comum).",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+4"
+  },
+  {
+    "id": 5,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "A série faz uma crítica muito forte aos padrões irreais de beleza exigidos pela sociedade sul-coreana.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+5"
+  },
+  {
+    "id": 6,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "A atriz Moon Ga-young tem problemas reais de acne severa como a personagem. (Tudo aquilo é maquiagem de efeitos especiais!).",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+6"
+  },
+  {
+    "id": 7,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "Cha Eun-woo, que interpreta o inteligente Su-ho, é também cantor e membro do famoso grupo de K-pop ASTRO.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+7"
+  },
+  {
+    "id": 8,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "O final da série de TV é idêntico ao dos quadrinhos originais. (A série tomou rumos diferentes e precisou adaptar a conclusão).",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+8"
+  },
+  {
+    "id": 9,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "O ator Hwang In-youp cantou de verdade as músicas do seu personagem, Seo-jun, durante as cenas musicais.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+9"
+  },
+  {
+    "id": 10,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "Ninguém na nova escola descobre o rosto sem maquiagem de Ju-kyung até a formatura. (O segredo infelizmente acaba vazando).",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+10"
+  },
+  {
+    "id": 11,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "A dancinha engraçada da música 'Okey Dokey' feita pelo personagem Seo-jun viralizou nas redes sociais do mundo todo.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+11"
+  },
+  {
+    "id": 12,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "A história fala apenas sobre romance adolescente e roupas bonitas. (Ela aborda temas sérios como depressão, bullying e perdão familiar).",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+12"
+  },
+  {
+    "id": 13,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "Apesar da aparência 'princesa', Ju-kyung tem gostos peculiares: ama histórias em quadrinhos de terror e rock pesado.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+13"
+  },
+  {
+    "id": 14,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "Beleza Verdadeira foi o primeiro e único trabalho como ator de Cha Eun-woo. (Ele já era conhecido por 'My ID is Gangnam Beauty').",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+14"
+  },
+  {
+    "id": 15,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "O dorama conta com participações especiais divertidíssimas de atores de outro famoso K-drama, 'Extraordinary You'.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+15"
+  },
+  {
+    "id": 16,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "A família de Ju-kyung é muito rica e financia todas as suas maquiagens caras. (A família passa por sérios problemas financeiros na trama).",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+16"
+  },
+  {
+    "id": 17,
+    "classificacao": "VERDADE",
+    "fator": "verdade",
+    "descricao": "O triângulo amoroso gerou uma enorme 'Síndrome do Protagonista Secundário' na internet, dividindo os fãs entre Team Su-ho e Team Seo-jun.",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+17"
+  },
+  {
+    "id": 18,
+    "classificacao": "MITO",
+    "fator": "mito",
+    "descricao": "As marcas de cosméticos mostradas quando a personagem se maquia são todas inventadas. (Muitas são marcas reais que patrocinaram a série!).",
+    "imagem": "https://placehold.co/400x300/ff99c8/ffffff?text=Beleza+Verdadeira+18"
+  }
+]

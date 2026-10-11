@@ -1,0 +1,82 @@
+/* Selecionamos todo o site para usar uma fonte moderna e tirar margens que vêm por padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    /* Uma cor de fundo suave, tom de lavanda/rosa bebê, combinando com o dorama */
+    background-color: #fce4ec; 
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f06292; /* Rosa escuro */
+    color: white;
+    margin-bottom: 30px;
+}
+
+/* =========================================
+   A MÁGICA DO FLEXBOX COMEÇA AQUI
+   ========================================= */
+.destaques {
+    /* 1. Transforma nossa seção em uma "caixa flexível" */
+    display: flex; 
+    
+    /* 2. Permite que os cards "quebrem" para a linha de baixo se não couberem na tela */
+    flex-wrap: wrap; 
+    
+    /* 3. Centraliza os cards horizontalmente no meio da tela */
+    justify-content: center; 
+    
+    /* 4. Cria um espaço (respiro) de 20 pixels entre cada card */
+    gap: 20px; 
+    
+    /* Um limite máximo de largura para não esticar muito em telas grandes */
+    max-width: 1200px; 
+    margin: 0 auto; /* Centraliza a própria seção na página */
+    padding: 0 20px 40px 20px;
+}
+
+/* Estilização individual de cada "Cartão" */
+.card {
+    background-color: white;
+    border-radius: 10px; /* Bordas arredondadas */
+    width: 300px; /* Largura fixa para manter a harmonia */
+    overflow: hidden; /* Corta qualquer coisa que vazar das bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Sombra suave para dar efeito 3D */
+    
+    /* O próprio card também pode ser um Flexbox, organizado em coluna! */
+    display: flex;
+    flex-direction: column; /* Coloca imagem, título e texto um embaixo do outro */
+}
+
+/* Para garantir que a imagem não saia do card, fazemos ela ocupar 100% da largura do card */
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card h3 {
+    padding: 15px 15px 5px 15px;
+    font-size: 1.2rem;
+}
+
+/* Classes para destacar se é Mito ou Verdade com cores diferentes */
+.verdade {
+    color: #4caf50; /* Verde */
+}
+
+.mito {
+    color: #f44336; /* Vermelho */
+}
+
+.card p {
+    padding: 0 15px 20px 15px;
+    font-size: 0.95rem;
+    line-height: 1.5; /* Espaço entre as linhas do texto, facilita a leitura (acessibilidade) */
+}
